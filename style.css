@@ -1,0 +1,80 @@
+
+body {
+  backgroud-color: #DBE7C9;
+  ;
+  margin: 0%;
+}
+
+header {
+  background-color: #294B29;
+  height: 100px;
+}
+
+img {
+  background-color: #294B29;
+  height: 60px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.nav ul {
+  background-color: #294B29;
+  list-style: none;
+  margin: 0%;
+  padding: 20px 0 0 0;
+  text-align: center;
+}
+
+.nav li {
+  background-color: #50623A;
+  display: inline-block;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.nav a {
+  background-color: #789461;
+}
+
+section {
+  background-color: #789461;
+  width: 840px;
+  margin: 50px auto 0px auto;
+}
+section-box {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+#quote-offer-container {
+  background-color: #789461;
+  margin-right: 40px;
+  margin-top: 30px;
+  height: 200px;
+}
+
+#quote-form-container {
+  background-color: #789461;
+  padding: 20px;
+}
+
+#quote-form {
+  background-color: #789461;
+}
+
+.form-field {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  background-color: #50623A;
+  color: #DBE7C9;
+  height: 40px;
+  width:  80px;
+}
